@@ -19,7 +19,7 @@ HNL_PowerBI
 │   SuperSportHNL.csv           // The dataset, obtained by web scraping
 │   HNL_Notebook.ipynb          // The Jupyter notebook
 │
-└───img                         // Images used in the dashboard (*background*, *logos*)
+└───img                         // Images used in the dashboard (background, logos)
 │   │ ...
 ```
 
