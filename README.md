@@ -44,6 +44,9 @@ At the top of the dashboard, there is a title tile featuring the league's logo a
 
 To further interact with the dashboard, you can click on various features such as chart elements and data points. This allows you to drill down and explore specific aspects of the data. Moreover, you have the flexibility to drill down into the data by clicking on multiple elements simultaneously using the "Ctrl" key. This level of interactivity empowers you to customize your analysis, gain deeper insights, and tailor the dashboard to your specific interests and needs.
 
+<img src="https://github.com/AnteDujic/HNL_PowerBI/blob/main/img/HNL_overview.jpg" alt="Alt Text" width="300" height="200">
+
+
 ## Credits
 
 - Transfermarkt (https://www.transfermarkt.com/)
