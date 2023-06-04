@@ -11,6 +11,9 @@ The data displayed in this Power BI dashboard is sourced from Transfermarkt, a p
 
 ## Repository Contents
 
+- 'HNL.pbix' - The Power BI dashboard file
+- 'SuperSportHNL.csv' - The dataset
+- 'HNL_Notebook.ipynb' - The jupyter notebook
 ...
 
 ## Getting Started
@@ -21,7 +24,8 @@ To get started with this project, follow these steps:
 ```bash
 git clone https://github.com/AnteDujic/HNL_PowerBI.git
 ```
-3. Open the `HNL.pbix` file in Power BI to explore and interact with the visualizations.
+2. Open the `HNL.pbix` file in Power BI to explore and interact with the visualizations.
+3. Alternatively, you can also access the dashboard by clicking: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/HNL_PowerBI/blob/main/HNL_Notebook.ipynb) or opening 'HNL_Notebook.ipynb' jupyter notebook.
 
 ### How to use
 
